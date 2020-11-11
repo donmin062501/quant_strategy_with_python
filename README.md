@@ -8,6 +8,6 @@ While studying, I have...
 
       • Studied various quant strategies using python libraries
 
-      • Demonstrated magic formula investing, web scraping, backtesting
+      • Demonstrated magic formula investing, F-Score investing, Momentum investing, web scraping, backtesting
 
-      • Learned PER, ROA, PBR, F-Score, Momentum
+      • Learned PER, ROA, PBR, PSR, PCR, F-Score, Momentum
