@@ -2,7 +2,7 @@
 
 Please note that this is all self-studied off of one Korean book.
 
-Therefore, some terms are in Korean, but many are translated into English in comments.
+Therefore, some terms are in Korean, but most are translated into English in comments.
 
 While studying, I have...
 
