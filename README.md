@@ -4,8 +4,10 @@ Please note that this is all self-studied off of one Korean book.
 
 Therefore, some terms are in Korean, but many are translated into English in comments.
 
-• Studied various quant strategies using python libraries
+While studying, I have...
 
-• Demonstrated magic formula investing, web scraping, backtesting
+      • Studied various quant strategies using python libraries
 
-• Learned PER, ROA, PBR, F-Score, Momentum
+      • Demonstrated magic formula investing, web scraping, backtesting
+
+      • Learned PER, ROA, PBR, F-Score, Momentum
