@@ -11,3 +11,5 @@ While studying, I have...
       • Demonstrated magic formula investing, F-Score investing, Momentum investing, web scraping, backtesting
 
       • Learned PER, ROA, PBR, PSR, PCR, F-Score, Momentum
+
+Currently studying Ch5 Backtesting... (Expected to be done by the end of Nov. 2020)
