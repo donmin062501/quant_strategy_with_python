@@ -1,6 +1,6 @@
 # quant_strategy_with_python
 
-Please note that this is all self-studied from a book.
+Please note that this is all self-studied from a Korean book
 
 While studying, I have...
 
