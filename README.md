@@ -1,8 +1,6 @@
 # quant_strategy_with_python
 
-Please note that this is all self-studied off of one Korean book.
-
-Therefore, some terms are in Korean, but most are translated into English in comments.
+Please note that this is all self-studied from a book.
 
 While studying, I have...
 
@@ -12,4 +10,4 @@ While studying, I have...
 
       • Learned PER, ROA, PBR, PSR, PCR, F-Score, Momentum
 
-Currently studying Ch5 Backtesting... (Expected to be done by the end of Nov. 2020)
+Currently studying Ch5 Backtesting... (Expected to be done by the end of Dec. 2020)
